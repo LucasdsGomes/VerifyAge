@@ -1,0 +1,51 @@
+body {
+    background: linear-gradient(to right, #ecdbdb, #e4b4e8);
+}
+
+#cont {
+    border-radius: 20px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    margin-top: 200px;
+}
+
+#res {
+    margin-top: 20px;
+}
+
+#foto {
+    max-width: 200px; 
+    margin: 10px auto;
+    display: block;
+}
+
+#resultadoTitulo {
+    margin-bottom: 10px;
+}
+
+h5 {
+    color: rgb(5, 130, 76);
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+    background-color:rgb(62, 217, 150);
+    padding: 10px;
+    border-radius: 10px;
+}
+a {
+    text-decoration: none;
+}
+#verify {
+display: flex;
+justify-content: center;
+align-items: center;
+min-height: 100vh;
+}
+
+.bg-info-subtle {
+padding: 30px;
+}
+
+#dat,
+#gen {
+    font-weight:bold;
+}
